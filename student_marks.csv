@@ -1,0 +1,16 @@
+Student_ID,Student_Name,Department,Maths,Science,English,Total,Average,Grade,Result
+101,Arun,BCA,85,78,90,253,84.33,A,Pass
+102,Priya,BCA,70,65,80,215,71.67,B,Pass
+103,John,BSc,45,50,40,135,45,C,Pass
+104,Meena,BCom,90,92,88,270,90,A,Pass
+105,Rahul,BCA,30,25,40,95,31.67,F,Fail
+106,Kavin,BCA,76,82,79,237,79,B,Pass
+107,Divya,BSc,88,91,85,264,88,A,Pass
+108,Suresh,BCom,55,60,58,173,57.67,C,Pass
+109,Nisha,BCA,95,93,97,285,95,A,Pass
+110,Vignesh,BSc,40,35,45,120,40,F,Fail
+111,Aarthi,BCom,72,75,70,217,72.33,B,Pass
+112,Ramesh,BCA,67,70,65,202,67.33,B,Pass
+113,Keerthana,BSc,82,85,88,255,85,A,Pass
+114,Mohan,BCom,48,52,50,150,50,C,Pass
+115,Sanjay,BCA,91,89,94,274,91.33,A,Pass
